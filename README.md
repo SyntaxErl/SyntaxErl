@@ -27,7 +27,7 @@ I’m passionate about building modern, responsive, and user-friendly web applic
 
 ## 📊 GitHub Stats
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SyntaxErl)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SyntaxErl)
 
 ---
 
