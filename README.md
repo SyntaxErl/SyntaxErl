@@ -27,7 +27,7 @@ I’m passionate about building modern, responsive, and user-friendly web applic
 
 ## 📊 GitHub Stats
 
-![Erl's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyntaxErl&showicons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyntaxErl&show_icons=true&theme=radical)
 
 ---
 
