@@ -25,6 +25,12 @@ I’m passionate about building modern, responsive, and user-friendly web applic
 
 ---
 
+## 📊 GitHub Stats
+
+![Erl's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
 ## 🌱 Currently Learning
 
 - Full Stack Development
