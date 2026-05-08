@@ -20,7 +20,7 @@ I’m passionate about building modern, responsive, and user-friendly web applic
 ## 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,vue,react,nodejs,express,mysql,tailwind,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=js,ts,vue,react,nodejs,express,mysql,mongodb,tailwind,bootstrap,git,github,vscode,postman,firebase,npm,vite" />
 </p>
 
 ---
