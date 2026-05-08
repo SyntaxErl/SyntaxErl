@@ -25,18 +25,18 @@ I’m passionate about building modern, responsive, and user-friendly web applic
 
 ---
 
-## 📊 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SyntaxErl)
-
----
-
 ## 🌱 Currently Learning
 
 - Full Stack Development
 - API Design & Integration
 - Backend Architecture
 - AI & Future Technologies
+
+---
+
+## 📊 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SyntaxErl)
 
 ---
 
