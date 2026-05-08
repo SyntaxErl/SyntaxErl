@@ -4,20 +4,17 @@
 
 I'm passionate about building modern web applications and continuously improving my skills in software development. I enjoy creating clean user interfaces, learning backend systems, and exploring how AI is shaping the future of technology.
 
-💻 Currently working with:
-- Vue.js
-- React.js
-- Node.js
-- Express.js
-- MySQL
+---
 
-🚀 Interests:
-- Full Stack Development
-- API Integration
-- UI/UX Design
-- AI & Emerging Technologies
+## 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,nodejs,express,mysql,git,github,vscode,postman,tailwind" />
+</p>
+
+---
 
 📚 Always learning, building, and improving through real-world projects.
 
-⚡ Fun Fact:
+⚡ Fun Fact:  
 I enjoy turning ideas into actual working applications and constantly pushing myself to grow as a developer.
