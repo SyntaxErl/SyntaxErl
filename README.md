@@ -1,20 +1,45 @@
-# Hi there 👋 I'm Erl Yves Tagaro
+# Hey there 👋 I'm Erl Yves Tagaro
 
-### Aspiring Full Stack Developer
+### 🚀 Software Developer | Tech Enthusiast
 
-I'm passionate about building modern web applications and continuously improving my skills in software development. I enjoy creating clean user interfaces, learning backend systems, and exploring how AI is shaping the future of technology.
+I’m passionate about building modern, responsive, and user-friendly web applications while continuously improving my skills in software development. I enjoy transforming ideas into real-world projects, exploring new technologies, and learning how AI is shaping the future of tech.
+
+---
+
+## 🧠 About Me
+
+- 💻 Building full stack web applications
+- 🎨 Love creating clean and modern UI designs
+- ⚡ Interested in AI, emerging technologies, and software engineering
+- 🔥 Continuously improving through real-world projects and practice
+- 📚 Currently learning deeper backend architecture and system design
+- 🎯 Goal: Become a highly skilled software engineer and build impactful products
 
 ---
 
 ## 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,nodejs,express,mysql,git,github,vscode,postman,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,python,vue,react,nodejs,express,mysql,tailwind,git,github,vscode,postman" />
 </p>
 
 ---
 
-📚 Always learning, building, and improving through real-world projects.
+## 🌱 Currently Learning
 
-⚡ Fun Fact:  
-I enjoy turning ideas into actual working applications and constantly pushing myself to grow as a developer.
+- Full Stack Development
+- API Design & Integration
+- Backend Architecture
+- AI & Future Technologies
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy turning ideas into actual working applications and challenging myself to improve every single day.
+
+---
+
+<p align="center">
+  <i>"Keep building. Keep learning. Stay curious."</i>
+</p>
