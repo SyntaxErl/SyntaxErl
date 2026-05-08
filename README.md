@@ -38,7 +38,6 @@ I’m passionate about building modern, responsive, and user-friendly web applic
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SyntaxErl)
 
----
 
 ## ⚡ Fun Fact
 
