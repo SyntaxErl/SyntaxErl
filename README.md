@@ -27,7 +27,7 @@ I’m passionate about building modern, responsive, and user-friendly web applic
 
 ## 🌱 Currently Learning
 
-- Full Stack Development
+- System Design
 - API Design & Integration
 - Backend Architecture
 - AI & Future Technologies
