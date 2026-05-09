@@ -32,7 +32,7 @@ I’m passionate about building modern, responsive, and user-friendly web applic
 - Backend Architecture
 - AI & Future Technologies
 
----
+
 
 ## 📊 GitHub Streak
 
