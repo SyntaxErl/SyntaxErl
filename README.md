@@ -17,6 +17,28 @@ I’m passionate about building modern, responsive, and user-friendly web applic
 
 ---
 
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/SyntaxErl" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/erl-yves-tagaro-a88b482a1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://www.facebook.com/rlyvs.py" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Let's connect, collaborate, and build something amazing together.</b>
+</p>
+
+---
+
 ## 🚀 Tech Stack
 
 <p align="left">
@@ -40,24 +62,6 @@ I’m passionate about building modern, responsive, and user-friendly web applic
 
 ---
 
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/SyntaxErl" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/erl-yves-tagaro-a88b482a1/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/rlyvs.py" target="_blank">
-    <img height="48" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</p>
-
----
-
 ## ⚡ Fun Fact
 
 I enjoy turning ideas into actual working applications and challenging myself to improve every single day.
@@ -66,4 +70,4 @@ I enjoy turning ideas into actual working applications and challenging myself to
 
 <p align="center">
   <i>"Keep building. Keep learning. Stay curious."</i>
-</p>
+</p>  
