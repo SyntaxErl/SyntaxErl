@@ -31,6 +31,10 @@ I’m passionate about building modern, responsive, and user-friendly web applic
   <a href="https://www.facebook.com/rlyvs.py">
     <img src="https://img.shields.io/badge/Facebook-rlyvs.py-1877F2?style=for-the-badge&logo=facebook" />
   </a>
+
+  <a href="https://erltagaro.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel" />
+  </a>
 </p>
 
 ---
